@@ -1,0 +1,848 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance &amp; address of the armies of England, Scotland, and Ireland to the Lord General Monck; presented to His Excellency the 9th of April, 1660. by Colonel Charles Lord Howard, accompanied by about fourty of the most eminent officers of the armies of England, Scotland, and Ireland. St James's, April 9. 1660. Ordered by his excellency the L. Gen. Monck, that the remonstrance and address of the officers of the army, presented this day to his excellency, be forthwith printed and published by M. Henry Mudoiman. William Clarke, secretary.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92409</idno>
+            <idno type="STC">Wing R959</idno>
+            <idno type="STC">Thomason E1021_1</idno>
+            <idno type="STC">ESTC R208353</idno>
+            <idno type="EEBO-CITATION">99867310</idno>
+            <idno type="PROQUEST">99867310</idno>
+            <idno type="VID">168850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168850)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1021[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance &amp; address of the armies of England, Scotland, and Ireland to the Lord General Monck; presented to His Excellency the 9th of April, 1660. by Colonel Charles Lord Howard, accompanied by about fourty of the most eminent officers of the armies of England, Scotland, and Ireland. St James's, April 9. 1660. Ordered by his excellency the L. Gen. Monck, that the remonstrance and address of the officers of the army, presented this day to his excellency, be forthwith printed and published by M. Henry Mudoiman. William Clarke, secretary.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 5-15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Macock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168850:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>THE Remonſtrance &amp; Addreſs OF THE ARMIES OF <hi>England, Scotland,</hi> and <hi>Ireland,</hi> To the Lord General Monck;</p>
+            <p>Preſented to His Excellency the 9<hi rend="sup">th</hi> of <hi>April,</hi> 1660.</p>
+            <p>By Colonel <hi>Charles</hi> Lord <hi>Howard,</hi> Accom<g ref="char:EOLhyphen"/>panied by about fourty of the moſt Emi<g ref="char:EOLhyphen"/>nent Officers of the Armies of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>S<hi rend="sup">t</hi> James's, <date>April 9. 1660.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by his Excellency the L. Gen. <hi>Monck,</hi> That the Remonſtrance and Addreſs of the Officers of the Army, Preſented this day to his Ex<g ref="char:EOLhyphen"/>cellency, be forthwith printed and publiſhed by M. <hi>Henry Mudo<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>man.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>William Clarke,</hi> Secretary.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Macock,</hi> 1660. <add>April 11.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatch">
+            <pb facs="tcp:168850:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb n="5" facs="tcp:168850:2"/>
+            <!-- PDF PAGE 72 -->
+            <head>To His Excellency the Lord General Monck, Captain General of all the Forces Of ENGLAND, SCOTLAND, and IRELAND.</head>
+            <head>The Humble Remonſtrance and Addreſs of the Officers of the Armies under Your Excel<g ref="char:EOLhyphen"/>lencies Command.</head>
+            <p>WEE the Officers of the Army under Your Excellencies Command, whoſe Names are hereunder written, being truly and deeply ſenſible of the merciful and
+<pb n="6" facs="tcp:168850:3"/>
+               <!-- PDF PAGE 73 -->wonderful Providence of Almighty God in bringing us after ſo many Revolutions and Changes into an hopeful way of Settlement; And perceiving to our great grief; that there are too many, who ſeeking more their own Pri<g ref="char:EOLhyphen"/>vate Intereſt than the Publick Good, are endea<g ref="char:EOLhyphen"/>vouring to reduce us again to our old Neceſsi<g ref="char:EOLhyphen"/>ties &amp; Confuſions, and that they have proceeded ſo far as to cauſe Jealouſies in the Council of State, in whom the Supream Power and Truſt now, till the meeting of the Parliament, is reſi<g ref="char:EOLhyphen"/>ding; Do hold it our Duties for the prevent<g ref="char:EOLhyphen"/>ing of all ſuch Jealouſies for the future, and for the ſtrengthening of Your Excellencies Hands in the carrying on of this good work, in which it hath pleaſed God to make you ſo highly In<g ref="char:EOLhyphen"/>ſtrumental, humbly to make this Addreſs unto Your Excellency, in the name of our ſelves and all the Souldiers under our Commands, and to Declare, That we ſhall, according to our Du<g ref="char:EOLhyphen"/>ties, carry and behave our ſelves as Officers of an Army inſtructed by Your Example and Diſcipline, to obey and not diſpute the Orders of our Superiours, and ſhall freely and readily obſerve ſuch Commands as we ſhall receive from
+<pb n="7" facs="tcp:168850:3"/>
+               <!-- PDF PAGE 73 -->Your Excellency, or the Council of State, or the Parliament when Aſſembled: And in particu<g ref="char:EOLhyphen"/>lar we ſhall, according to the late Proclamation of the Council of State of <hi>March</hi> 17. decline any meeting or meetings for the contriving or carrying on of any Declaration or Subſcriptions concerning Affairs of State or Government, thereby avoiding thoſe miſchiefs which made many lately in Armes ſo juſtly diſtaſteful to the People, by making themſelves a divided Inte<g ref="char:EOLhyphen"/>reſt from the reſt of them. And we are the more willing to make this Addreſs at this time, to evince to all the world the Integrity of our Obedience, becauſe of the great expectation of the next Parliament, from whom we hope for an happy Settlement to all the Nations; And that they may have no ill apprehenſions of us, we are reſolv'd, as it becomes us in duty, to ſub<g ref="char:EOLhyphen"/>mit to whatſoever the Lord ſhall bring forth from their Conſultations, knowing that Parlia<g ref="char:EOLhyphen"/>ments onely can ſecure us in our Religious and Civil Rights. And foraſmuch as many Repre<g ref="char:EOLhyphen"/>ſentations heretofore made to Perſons in emi<g ref="char:EOLhyphen"/>nent Authority have been too frequently con<g ref="char:EOLhyphen"/>trived in the Name of the Army, which were
+<pb n="8" facs="tcp:168850:4"/>
+               <!-- PDF PAGE 74 -->done rather in formality (as we perceive by the event) than otherwiſe, we do ſolemnly de<g ref="char:EOLhyphen"/>ſire that this may be Recorded as a Teſtimony and Witneſs againſt Us, if ever we ſhall be guilty of any ſuch Backſlidings.</p>
+            <closer>
+               <signed>Your Excellencies moſt Obedient Servants.</signed>
+            </closer>
+         </div>
+         <div type="lists_of_officers">
+            <list>
+               <head>The Officers of the Lord Generals Regiment of Foot.</head>
+               <item>
+                  <hi>Ethelbert Morgan</hi> Leiut. Col.</item>
+               <item>
+                  <hi>Thomas Goodwin</hi> Leiut.</item>
+               <item>
+                  <hi>Richard Rewcaſtle</hi> Enſ.</item>
+               <item>
+                  <hi>Francis Nicholls</hi> Major.</item>
+               <item>
+                  <hi>John Saunders</hi> Lieut.</item>
+               <item>
+                  <hi>John Cobb</hi> Enſigne.</item>
+               <item>
+                  <hi>John Miller.</hi>
+               </item>
+               <item>
+                  <hi>Rob. Cooper</hi> Leiut.</item>
+               <item>
+                  <hi>Edw: Baſnett</hi> Enſ.</item>
+               <item>
+                  <hi>William Downes</hi> Capt.</item>
+               <item>
+                  <hi>William Underhill</hi> Leiut</item>
+               <item>
+                  <hi>Michael Adderſey</hi> Enſ.</item>
+               <item>
+                  <hi>Robert Winter</hi> Capt.</item>
+               <item>
+                  <hi>James Hubberd</hi> Leiut.</item>
+               <item>
+                  <hi>John Clarke</hi> Enſ.</item>
+               <item>
+                  <hi>T. Mansfield</hi> Capt.</item>
+               <item>
+                  <hi>John Rooke</hi> Leiut.</item>
+               <item>
+                  <hi>Daniel Court</hi> Enſ.</item>
+               <item>
+                  <hi>John Collins</hi> Capt.</item>
+               <item>
+                  <hi>John Harriſon</hi> Lieut.</item>
+               <item>
+                  <hi>Thomas Figg</hi> Enſ.</item>
+               <item>
+                  <hi>John Peters</hi> Capt.</item>
+               <item>
+                  <hi>William Brangman</hi> Leiut.</item>
+               <item>
+                  <hi>William Mack<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cith</hi> Enſ.</item>
+               <item>
+                  <hi>John Mutlow</hi> Capt.</item>
+               <item>
+                  <hi>John Painter</hi> Capt. Leiut.</item>
+               <item>
+                  <hi>Ralph Butcher</hi> Enſ.</item>
+               <item>
+                  <hi>John Price</hi> Chaplaine.</item>
+               <item>
+                  <hi>Richard Collins</hi> Qr. Maſter.</item>
+            </list>
+            <list>
+               <pb n="9" facs="tcp:168850:4"/>
+               <!-- PDF PAGE 74 -->
+               <head>The Officers of his Excellencies Regiment of Horſe.</head>
+               <item>
+                  <hi>Tho. Johnſon</hi> Major</item>
+               <item>Jo. <hi>Cogan</hi> Lieutenant</item>
+               <item>Jo. <hi>Smith</hi> Coronet</item>
+               <item>
+                  <hi>Tho. Alley</hi> Quartermaster</item>
+               <item>
+                  <hi>Ph. Wilkinſon</hi> Captain-Lt.</item>
+               <item>
+                  <hi>William Growte</hi> Cor.</item>
+               <item>
+                  <hi>Nicholas Hudſon</hi> Quart.m</item>
+               <item>
+                  <hi>Tho. Simnel</hi> Capt.</item>
+               <item>
+                  <hi>Tho. Roper</hi> Lieutenant</item>
+               <item>
+                  <hi>Tho. Gallant</hi> Cornet</item>
+               <item>
+                  <hi>Hugh Whittel</hi> Quarterm.</item>
+               <item>
+                  <hi>Mi. Richardſon</hi> Captain</item>
+               <item>W. <hi>Partridge</hi> Lieutenant</item>
+               <item>
+                  <hi>Dan. Smith</hi> Cornet</item>
+               <item>
+                  <hi>Ben. Seargeant</hi> Quarterma.</item>
+               <item>
+                  <hi>Pet. Wilmot</hi> Captain</item>
+               <item>
+                  <hi>Anth. Nowers</hi> Lieutenant</item>
+               <item>
+                  <hi>Dan. Dalton</hi> Cornet</item>
+               <item>
+                  <hi>Joſeph Hurndal</hi> Quarter-m</item>
+               <item>
+                  <hi>John Paddon</hi> Capt.</item>
+               <item>
+                  <hi>Tho. Buller</hi> Lieut.</item>
+               <item>
+                  <hi>John Brittain</hi> Cor.</item>
+               <item>
+                  <hi>Obadiah Boot</hi> Quarter-ma.</item>
+            </list>
+            <list>
+               <head>The Officers of Colonel <hi>Ralph Knights</hi> Regiment of Horſe.</head>
+               <item>
+                  <hi>R. Knight</hi> Colonel</item>
+               <item>
+                  <hi>Tho Bourne</hi> Captain-Lieut.</item>
+               <item>
+                  <hi>Rich. Hooker</hi> Cornet</item>
+               <item>
+                  <hi>Ralph Dawes</hi> Quarter-ma.</item>
+               <item>
+                  <hi>William Hodgkinſon</hi> Lt.</item>
+               <item>
+                  <hi>Anthony Mitchal</hi> Cor.</item>
+               <item>
+                  <hi>Chriſt. Mallock</hi> Quart.ma.</item>
+               <item>
+                  <hi>Edward Auſtin</hi> Lieutenant</item>
+               <item>
+                  <hi>Robert Brownloe</hi> Cor.</item>
+               <item>
+                  <hi>James Crofts</hi> Quarter-mast</item>
+               <item>
+                  <hi>Fran. Hacker</hi> Capt.</item>
+               <item>
+                  <hi>Peter Perkinſon</hi> Cor.</item>
+               <item>
+                  <hi>Ralph Bamford</hi> Quarter-m</item>
+               <item>
+                  <hi>William Goodwin</hi> Capt.</item>
+               <item>
+                  <hi>Tho. Ogle</hi> Lieutenant</item>
+               <item>
+                  <hi>John Ball</hi> Cor.</item>
+               <item>
+                  <hi>Francis Sulley</hi> Quarter-m.</item>
+               <item>
+                  <hi>Hen. Ogle</hi> Capt.</item>
+               <item>
+                  <hi>Robert Ogle</hi> Lieut.</item>
+               <item>
+                  <hi>Lance Frother</hi> Cor.</item>
+               <item>
+                  <hi>William Pardye</hi> Quart-m.</item>
+            </list>
+            <list>
+               <pb n="10" facs="tcp:168850:5"/>
+               <!-- PDF PAGE 75 -->
+               <head>The Officers of Colonel <hi>Jo. Hubblethorn's</hi> Regiment.</head>
+               <item>
+                  <hi>Jo. Hubblethorne</hi> Col.</item>
+               <item>
+                  <hi>Geo. Hewſon</hi> Captain-Lt.</item>
+               <item>
+                  <hi>Jo. Mullant</hi> Enſ.</item>
+               <item>
+                  <hi>James Emerſon</hi> Lieut. Col.</item>
+               <item>
+                  <hi>Jo. Smith</hi> Lt.</item>
+               <item>
+                  <hi>Tho. Sherman</hi> Enſ.</item>
+               <item>
+                  <hi>Jo. Clarke</hi> Major</item>
+               <item>
+                  <hi>Aaron Moody</hi> Lt.</item>
+               <item>
+                  <hi>Tho. Lathrop</hi> Enſ.</item>
+               <item>
+                  <hi>Jo. Huitſon</hi> Cap.</item>
+               <item>
+                  <hi>Fran. Enderby</hi> Lt.</item>
+               <item>
+                  <hi>Tho. Colgrave</hi> Enſ.</item>
+               <item>
+                  <hi>Jo. Seymot</hi> Col.</item>
+               <item>
+                  <hi>Tho. Cryer</hi> Lt.</item>
+               <item>
+                  <hi>John Brewer</hi> Enſ.</item>
+               <item>
+                  <hi>D. Francis</hi> Col.</item>
+               <item>
+                  <hi>Jarrard Wilkinſon</hi> Lt.</item>
+               <item>
+                  <hi>Geo. Sherburn</hi> Enſ.</item>
+               <item>
+                  <hi>Joſ. Fellowes</hi> Capt.</item>
+               <item>
+                  <hi>Fran. Bellinger</hi> Lt.</item>
+               <item>
+                  <hi>Ed. Palmer</hi> Enſ.</item>
+               <item>
+                  <hi>Rich. Miller</hi> Capt.</item>
+               <item>
+                  <hi>Nat. Waddon</hi> Lt.</item>
+               <item>
+                  <hi>
+                     <hi>John</hi> Whetſton</hi> Enſ.</item>
+               <item>
+                  <hi>Will. Goding</hi> Enſ.</item>
+               <item>
+                  <hi>Corn. Middlegeſt</hi> Lt.</item>
+               <item>
+                  <hi>Rich. Lewis</hi> Enſ.</item>
+               <item>
+                  <hi>Tho. Gullock</hi> Capt.</item>
+               <item>
+                  <hi>Tho. Liſle</hi> Lt.</item>
+               <item>
+                  <hi>Mat. Scales</hi> Enſ.</item>
+               <item>
+                  <hi>Robert Ferrer</hi> Lt.</item>
+            </list>
+            <list>
+               <head>The Officers of Colonel <hi>Leonard Lytcots</hi> Regiment.</head>
+               <item>
+                  <hi>L. Lytcot</hi> Colonel</item>
+               <item>
+                  <hi>Rich. Hatt</hi> Lt. col.</item>
+               <item>
+                  <hi>M. Marvel</hi> captain.</item>
+               <item>
+                  <hi>Tho. Thompſon</hi> capt.</item>
+               <item>
+                  <hi>Jo. Holbrook</hi> capt.</item>
+               <item>
+                  <hi>Anth. Taylor</hi> capt.</item>
+               <item>
+                  <hi>Robert Lytcot.</hi> capt.</item>
+               <item>
+                  <hi>Ja. Weare</hi> captain-lieut.</item>
+               <item>
+                  <hi>John Baker</hi> Lt.</item>
+               <item>
+                  <hi>John Ward</hi> Lt.</item>
+               <item>
+                  <hi>Abraham Lucas</hi> Lt.</item>
+               <item>
+                  <hi>George Simmons</hi> Lt.</item>
+               <item>
+                  <hi>George Read</hi> Lt.</item>
+               <item>
+                  <hi>Edward Goudy</hi> Lt.</item>
+               <item>
+                  <hi>Edward Charke</hi> Enſ.</item>
+               <item>
+                  <hi>Richard Brown</hi> Enſ.</item>
+               <item>
+                  <pb n="11" facs="tcp:168850:5"/>
+                  <!-- PDF PAGE 75 -->
+                  <hi>Will. Cardinal</hi> Enſ.</item>
+               <item>
+                  <hi>Will. Dafle</hi> Enſ.</item>
+               <item>
+                  <hi>Will. Stiles</hi> Enſ.</item>
+               <item>
+                  <hi>James Thompſon</hi> Enſ.</item>
+               <item>
+                  <hi>Tho. Webſter</hi> Enſ.</item>
+               <item>
+                  <hi>Joh. Owen</hi> Enſ.</item>
+               <item>
+                  <hi>Tho. Woodward</hi>
+               </item>
+               <item>
+                  <hi>Tho. Scottle</hi>
+               </item>
+               <item>
+                  <hi>Rob. Goodman</hi>
+               </item>
+            </list>
+            <list>
+               <head>Officers of Colonel <hi>Tho. Reads</hi> Regiment.</head>
+               <item>
+                  <hi>Tho. Read</hi> Col.</item>
+               <item>
+                  <hi>James Mutlow</hi> Lieut. col.</item>
+               <item>
+                  <hi>Sylam Callant</hi> Major</item>
+               <item>
+                  <hi>Geo. Everard</hi> capt.</item>
+               <item>
+                  <hi>Joh. Dirdoe</hi> capt.</item>
+               <item>
+                  <hi>Ralph Bernard</hi> capt.</item>
+               <item>
+                  <hi>Antho. Belcham</hi> capt.</item>
+               <item>
+                  <hi>Joh. Streat</hi> capt.</item>
+               <item>
+                  <hi>Joh. VVinthrop</hi> capt.</item>
+               <item>
+                  <hi>Fran. Young</hi> capt. lt.</item>
+               <item>
+                  <hi>Rob. Stoarer</hi> lt.</item>
+               <item>
+                  <hi>Joh. Curtis</hi> lt.</item>
+               <item>
+                  <hi>Joſhua Blyth</hi> lt.</item>
+               <item>
+                  <hi>VVill. Hughes</hi> lt.</item>
+               <item>
+                  <hi>Sam. Martin</hi> lt.</item>
+               <item>
+                  <hi>Sam. Jones</hi> lt.</item>
+               <item>
+                  <hi>Rich. Cox</hi> lt.</item>
+               <item>
+                  <hi>VVill. VVatkins</hi> lt.</item>
+               <item>
+                  <hi>Tho. Tilſtin</hi> lt.</item>
+               <item>
+                  <hi>Juſtinian Minſam</hi> Enſ.</item>
+               <item>
+                  <hi>Rob. Read</hi> Enſ.</item>
+               <item>
+                  <hi>Joh. Long</hi> Enſ.</item>
+               <item>
+                  <hi>Fran. Everard</hi> Enſ.</item>
+               <item>
+                  <hi>VVill. Satterſtale</hi> Enſ.</item>
+               <item>
+                  <hi>Tho. Gay</hi> Enſ.</item>
+               <item>
+                  <hi>Antho. Baid</hi> Enſ.</item>
+               <item>
+                  <hi>Sim. Freeman</hi> Enſ.</item>
+               <item>
+                  <hi>Mark Morris</hi> Enſ.</item>
+            </list>
+            <list>
+               <head>Of Colonel <hi>Clobery's</hi> Regiment of Horſe.</head>
+               <item>
+                  <hi>Joh. Clobery</hi> col.</item>
+               <item>
+                  <hi>Hugh Polden</hi> capt. lt.</item>
+               <item>
+                  <hi>Geo. Baky</hi> Quarter-m.</item>
+               <item>
+                  <hi>James Hornigold</hi> lt.</item>
+               <item>
+                  <hi>Edw. Chapman</hi> Quarter-m</item>
+               <item>
+                  <hi>Tho. Deane</hi> capt.</item>
+               <item>
+                  <hi>Joh. Sober</hi> lt.</item>
+               <item>
+                  <hi>Jam. Maleverer</hi> Quart.m.</item>
+               <item>
+                  <hi>Tho Munns</hi> capt.</item>
+               <item>
+                  <hi>Joſ. Butler</hi> cor.</item>
+               <item>
+                  <hi>Rob. VVaight</hi> Quarter-m.</item>
+               <item>
+                  <hi>Tho. Barnardiſton</hi> lt.</item>
+               <item>
+                  <hi>Joh. Beale</hi> cor.</item>
+               <item>
+                  <hi>Tho. Gootes</hi> Quarter-m.</item>
+               <item>
+                  <hi>Joh. Hill</hi> capt.</item>
+               <item>
+                  <hi>Tho. Carnaby</hi> lt.</item>
+               <item>
+                  <hi>Tho. Poole</hi> cor.</item>
+               <item>
+                  <hi>VVill. Martyn</hi> Quarter-m.</item>
+               <item>
+                  <hi>Tho. Clarke</hi> chyrurgion</item>
+            </list>
+            <list>
+               <pb n="12" facs="tcp:168850:6"/>
+               <!-- PDF PAGE 76 -->
+               <head>Colonel <hi>Fagg</hi>'s Regiment.</head>
+               <item>
+                  <hi>H. Needler</hi> Lt. Col.</item>
+               <item>
+                  <hi>Rich. Scott</hi> Major</item>
+               <item>
+                  <hi>Tho. Pride</hi> capt.</item>
+               <item>
+                  <hi>H. Vivian</hi> capt.</item>
+               <item>
+                  <hi>N. Harriſon</hi> capt.</item>
+               <item>
+                  <hi>Ben. Rydyerd</hi> capt.</item>
+               <item>
+                  <hi>Rich. Gwyn</hi> capt.</item>
+               <item>
+                  <hi>Fran. Arundel</hi> Capt. Lt.</item>
+               <item>
+                  <hi>Rich. Pepper</hi> Lt.</item>
+               <item>
+                  <hi>Phil. Dawly</hi> Lt.</item>
+               <item>
+                  <hi>John Holloway</hi> Lt.</item>
+               <item>
+                  <hi>John Shelton</hi> Lt.</item>
+               <item>
+                  <hi>Jonathan Sprigge</hi> Lt.</item>
+               <item>
+                  <hi>Jo. Taylor</hi> Lt.</item>
+               <item>
+                  <hi>Ant. Morley</hi> Enſign</item>
+               <item>
+                  <hi>Rich. Taylor</hi> Enſ.</item>
+               <item>
+                  <hi>Will. Fyſhe</hi> Enſ.</item>
+               <item>
+                  <hi>James Hope</hi> Enſ.</item>
+               <item>
+                  <hi>Ri. Farley</hi> Enſ.</item>
+               <item>
+                  <hi>Geo. Mills</hi> Enſ.</item>
+               <item>
+                  <hi>Fra. Hamond</hi> Enſ.</item>
+               <item>
+                  <hi>Chriſt. Mills</hi> Enſ.</item>
+               <item>
+                  <hi>Rich. Wells</hi> Enſ.</item>
+            </list>
+            <list>
+               <head>Colonel <hi>Morley,</hi> Lieutenant of the Tower, his Regiment.</head>
+               <item>
+                  <hi>Will. Farley</hi> Lt. Col.</item>
+               <item>
+                  <hi>Tho. White</hi> Major</item>
+               <item>
+                  <hi>William White</hi> capt.</item>
+               <item>
+                  <hi>Rich. Cullington</hi> capt.</item>
+               <item>
+                  <hi>Nich. Shepheard</hi> capt.</item>
+               <item>
+                  <hi>Rob. Goffe</hi> capt.</item>
+               <item>
+                  <hi>John Faight</hi> capt.</item>
+               <item>
+                  <hi>Henry Hare</hi> capt.</item>
+               <item>
+                  <hi>Fran. Preſt</hi> capt.</item>
+               <item>
+                  <hi>Will. Greenway</hi> capt. Lt.</item>
+               <item>
+                  <hi>Henry Eſton</hi> Lt.</item>
+               <item>
+                  <hi>Henry Collingham</hi> Lt.</item>
+               <item>
+                  <hi>Francis Arthur</hi> Lt.</item>
+               <item>
+                  <hi>Tho. Adams</hi> Lt.</item>
+               <item>
+                  <hi>Tho. Watſon</hi> Lt.</item>
+               <item>
+                  <hi>Gill Michael</hi> Lt.</item>
+               <item>
+                  <hi>Martin Howard</hi> Enſ.</item>
+               <item>
+                  <hi>William Jellibrand</hi> Enſ.</item>
+               <item>
+                  <hi>John Seclew</hi> Enſ.</item>
+               <item>
+                  <hi>Edward Parry</hi> Enſ.</item>
+               <item>
+                  <hi>Luke Cornwel</hi> Enſ.</item>
+               <item>
+                  <hi>VVill. VVilkinſon</hi> Enſ.</item>
+               <item>
+                  <hi>Francis Air</hi> Enſ.</item>
+               <item>
+                  <hi>Tho. Baye</hi> Enſ.</item>
+               <item>
+                  <hi>John Pope</hi> Quartermaſter.</item>
+               <item>
+                  <hi>Humphry Cole</hi> Chir.</item>
+               <item>
+                  <hi>Tho. Baniſter</hi>
+               </item>
+               <item>
+                  <hi>Bar. Marſhall</hi>
+               </item>
+               <item>
+                  <hi>Edward Fromet</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="13" facs="tcp:168850:6"/>
+               <!-- PDF PAGE 76 -->
+               <head>Lord <hi>Howard</hi>'s Regiment of Horſe.</head>
+               <item>
+                  <hi>Charls Howard</hi> Col.</item>
+               <item>Sir <hi>Henry Jones</hi> capt. Lt.</item>
+               <item>
+                  <hi>John VValpoole</hi> cornet</item>
+               <item>
+                  <hi>Rich. Wilſon</hi> Quarter-m.</item>
+               <item>
+                  <hi>Rob. Huntington</hi> Major</item>
+               <item>
+                  <hi>Henry Webly</hi> lt.</item>
+               <item>
+                  <hi>John Hauke</hi> cor.</item>
+               <item>
+                  <hi>Edmond Bear</hi> Quarter-m.</item>
+               <item>
+                  <hi>James Butler</hi> capt.</item>
+               <item>
+                  <hi>Francis Brown</hi> lt.</item>
+               <item>
+                  <hi>Samuel Cockerel</hi> cor.</item>
+               <item>
+                  <hi>William Salkeld</hi> capt.</item>
+               <item>
+                  <hi>Abraham Hargrave</hi> lt.</item>
+               <item>
+                  <hi>Geo. Frerell</hi> cor.</item>
+               <item>
+                  <hi>Ed. Scotton</hi> capt.</item>
+               <item>
+                  <hi>Rich. Winſmore</hi> cor.</item>
+               <item>
+                  <hi>Moſes Cotton</hi> Quarter-m.</item>
+               <item>
+                  <hi>Theophilus Barnet</hi> capt.</item>
+               <item>
+                  <hi>Edward Meruer</hi> cor.</item>
+               <item>
+                  <hi>Benjamin Gooch</hi> Quart.m.</item>
+            </list>
+            <list>
+               <head>The Officers of Colonel <hi>Charls Fairfax</hi> his Regiment of Foot.</head>
+               <item>
+                  <hi>Charls Fairfax</hi> col.</item>
+               <item>
+                  <hi>John Rogers</hi> lt. col.</item>
+               <item>
+                  <hi>Ren. Bailly</hi> Major</item>
+               <item>
+                  <hi>Tho. Sutton</hi> capt.</item>
+               <item>
+                  <hi>Jo. Fairfax</hi> capt.</item>
+               <item>
+                  <hi>Rob. Dineley</hi> capt.</item>
+               <item>
+                  <hi>Greg. Conſtable</hi> capt.</item>
+               <item>
+                  <hi>Tho. Ambler</hi> capt.</item>
+               <item>
+                  <hi>William Riley</hi> capt. lt.</item>
+               <item>
+                  <hi>Jo. Jackſon</hi> lt.</item>
+               <item>
+                  <hi>William Midwinter</hi> lt.</item>
+               <item>
+                  <hi>Anth. Saxton</hi> lt.</item>
+               <item>J. <hi>Adlington</hi> lt.</item>
+               <item>
+                  <hi>John Starkey</hi> lt.</item>
+               <item>
+                  <hi>John Rigden</hi> lt.</item>
+               <item>
+                  <hi>Samuel Barker</hi> lt.</item>
+               <item>
+                  <hi>William Cowel</hi> lt.</item>
+               <item>
+                  <hi>Hen. Man</hi> Enſ.</item>
+               <item>
+                  <hi>Rob. Hawden</hi> Enſ.</item>
+               <item>
+                  <hi>Roger Bagſhaw</hi> Enſ.</item>
+               <item>
+                  <hi>Tho. Kendray</hi> Enſ.</item>
+               <item>
+                  <hi>Ric. Smith</hi> Enſ.</item>
+               <item>
+                  <hi>Geo. Adamſon</hi> Enſ.</item>
+               <item>
+                  <hi>William Halle</hi> Enſ.</item>
+               <item>
+                  <hi>William Thornton</hi> Enſ.</item>
+               <item>
+                  <hi>Iſaac Millis</hi> Quarter-m.</item>
+               <item>
+                  <hi>John Man</hi> Chyrurgion.</item>
+            </list>
+            <list>
+               <pb n="14" facs="tcp:168850:7"/>
+               <!-- PDF PAGE 77 -->
+               <head>The Officers of Col. Sir <hi>Hugh Bethels</hi> Regiment of Horſe.</head>
+               <item>
+                  <hi>Hugh Bethel</hi> colonel</item>
+               <item>
+                  <hi>Chr. Bacon</hi> capt. lieut.</item>
+               <item>
+                  <hi>Guſtavus Boynton</hi> cor.</item>
+               <item>
+                  <hi>John Head</hi> Quarter-maſter</item>
+               <item>
+                  <hi>William Goodrick</hi> Major</item>
+               <item>
+                  <hi>Horatio Eure</hi> lt.</item>
+               <item>
+                  <hi>Henry Goodrick</hi> cor.</item>
+               <item>
+                  <hi>William Berry</hi> Quarter-maſt</item>
+               <item>
+                  <hi>John Pockley</hi> capt.</item>
+               <item>
+                  <hi>Jeremiah Spinke</hi> lt.</item>
+               <item>
+                  <hi>Joſeph Payne</hi> cor.</item>
+               <item>
+                  <hi>Henry Brown</hi> Quarter-maſt</item>
+               <item>
+                  <hi>Walter Bethel</hi> capt.</item>
+               <item>
+                  <hi>William Nacliffe</hi> lt.</item>
+               <item>
+                  <hi>John Bacon</hi> cor.</item>
+               <item>
+                  <hi>Henry Saltmarſh</hi> Quar.m.</item>
+               <item>
+                  <hi>John Hatfeild</hi> cor.</item>
+               <item>
+                  <hi>Robert Cox</hi> lt.</item>
+               <item>
+                  <hi>William Smyth</hi> cor.</item>
+               <item>
+                  <hi>Edward Coventry</hi> Quar.m</item>
+               <item>
+                  <hi>George Packe</hi> capt.</item>
+               <item>
+                  <hi>Francis Styringe</hi> cor.</item>
+               <item>
+                  <hi>Nath. Shrigley</hi> Quarter.m</item>
+               <item>
+                  <hi>Ri. Ingoldsby</hi> col.</item>
+               <item>
+                  <hi>D. Redman</hi> col.</item>
+               <item>
+                  <hi>E. Temple</hi> col.</item>
+               <item>
+                  <hi>Phil. Howard</hi> captain of the Life Guard</item>
+               <item>
+                  <hi>Robert Harley</hi> lieutenant to the Life Guard</item>
+               <item>
+                  <hi>Tho. Clarges</hi> commiſſary-General of the Muſters</item>
+               <item>
+                  <hi>Tho. Fleetwood</hi> commiſſary of the Ammunition</item>
+               <item>
+                  <hi>Tho. Gumble</hi> Scout-Maſter General</item>
+               <item>
+                  <hi>D. Pepper</hi> lieutenant colonel to col. <hi>Evelyn</hi>
+               </item>
+               <item>
+                  <hi>George Weldon</hi> lt. col.</item>
+               <item>
+                  <hi>Tho. milward</hi> capt. of col. <hi>Pury's</hi> Regiment.</item>
+               <item>
+                  <hi>Ric. Francklin</hi> capt.</item>
+            </list>
+            <p>
+               <pb n="15" facs="tcp:168850:7"/>
+               <!-- PDF PAGE 77 -->
+THe Reader may be pleaſed to take notice, That the reaſon why the Subſcriptions in ſome Regiments are not compleat, is becauſe the Officers were not preſent at their Com<g ref="char:EOLhyphen"/>mands at the time of the Subſcriptions; as al<g ref="char:EOLhyphen"/>ſo, that ſeveral Officers of the Armies being preſent at St. <hi>James's</hi> at the preſenting of this Remonſtrance, although the Subſcriptions of their Regiments were not here, would not o<g ref="char:EOLhyphen"/>mit to teſtifie their affections by ſubſcribing with their Fellows that had ſet their hands to this great Roll; and do intend in the reſpe<g ref="char:EOLhyphen"/>ctive Subſcriptions of their particular Regi<g ref="char:EOLhyphen"/>ments to renew the action of obedience: which all the Regiments, to whom it hath been com<g ref="char:EOLhyphen"/>municated, do concur in, and are now prepa<g ref="char:EOLhyphen"/>ring their Addreſſes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
